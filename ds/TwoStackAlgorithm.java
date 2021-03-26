@@ -1,7 +1,20 @@
 class TwoStackAlgorithm {
 
-	Stack<Integer> s1 = new Stack<Integer>();
-	Stack<Integer> s2 = new Stack<Integer>();
+	Stack<String> s1 = new Stack<String>(); //operand stack
+	Stack<Double> s2 = new Stack<Double>(); //operator stack
+	
+	public int evaluate(String s) {
+		for(char c : s) {
+			
+		}
+		
+		
+	}
+	
+	private char[] toChar(String s) {
+		return s.
+		
+	}
 	
 	
 }
